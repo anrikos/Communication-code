@@ -43,4 +43,5 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 ---
 
 ## 📂 Materials
-* 📄 [Download Full "Code of Communication" Presentation (PDF)](assets/presentation.pdf)
+* 📄 [Download Full "Code of Communication" Presentation (PDF)](assets/presentation.pdf?raw=true)
+
