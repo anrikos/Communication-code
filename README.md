@@ -26,6 +26,9 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 3. **Module 3:** Initiative and dialogue (Flexibility development).
 4. **Module 4:** Navigating complex situations and handling rejection.
 5. **Module 5:** Final Integration & mastering the modeling method.
+   <p align="center">
+  <img src="assets/Model_of_learning.PNG" alt="Код Общения" width="400">
+</p>
 
 ## 🔬 Systemic Tools Implemented
 * **Prompting & Vectorization:** Input data structuring for LLMs.
