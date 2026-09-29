@@ -9,9 +9,6 @@ An innovative framework that bridges neurobiology and artificial intelligence to
 
 ## 🧠 The Core Problem
 Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down behavioral patterns. This leads to mechanical responses and a failure to generalize skills when the context shifts. 
-<p align="center">
-  <img src="assets/Mind.PNG" alt="Код Общения" width="400">
-</p>
 
 "Communication Code" flips the logic using a **Bottom-Up analytical approach**. It compensates for sensory entanglement by treating social situations as structured tasks with clear inputs, processes, and outputs.
 
