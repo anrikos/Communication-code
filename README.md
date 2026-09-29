@@ -29,7 +29,7 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 5. **Module 5:** Final Integration & mastering the modeling method.
 
  <p align="center">
-  <img src="assets/Model_of_learning.PNG" alt="Код Общения" width="500">
+  <img src="assets/Model_of_learning.PNG" alt="Код Общения" width="600">
 </p>
 
 ## 🔬 Systemic Tools Implemented
