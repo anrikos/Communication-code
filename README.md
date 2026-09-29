@@ -40,6 +40,6 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 
 ---
 <p align="center">
-  <img src="assets/Open_the_door.PNG" alt="Код Общения" width="600">
+  <img src="assets/Open_the_door.PNG" alt="Код Общения" width="400">
 </p>
 *Everything has its code... Decode social interaction.*
