@@ -1,4 +1,7 @@
 # Communication Code: Developing Adequate Contextual Reaction (ACR) via LLMs
+<p align="center">
+  <img src="img/Hands.png" alt="Код Общения" width="600">
+</p>
 
 [Читать на русском языке](README.ru.md)
 
