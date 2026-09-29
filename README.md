@@ -18,7 +18,7 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 * **Seamless Skill Transfer:** High convergence between AI assistant behaviors and real-world interactions ensures smooth adaptation to everyday life.
 
 <p align="center">
-  <img src="assets/Maslow.PNG" alt="Код Общения" width="500">
+  <img src="assets/Maslow.PNG" alt="Код Общения" width="600">
 </p>
 
 ## 🛠️ Course Structure & Modules
