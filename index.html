@@ -1,1 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Communication Code — ACR in LLM</title>
+    <style>
+        :root {
+            --bg-color: #23252d;
+            --card-bg: #2d3039;
+            --text-color: #ffffff;
+            --text-muted: #b9bbbe;
+            --accent-color: #f39c12;
+            --accent-blue: #2980b9;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(135deg, #1a1c23 0%, #23252d 100%);
+            padding: 60px 20px;
+            text-align: center;
+            border-bottom: 1px solid #383c47;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        h2 {
+            font-size: 1.8rem;
+            color: var(--text-color);
+            border-left: 4px solid var(--accent-color);
+            padding-left: 15px;
+            margin-top: 40px;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            color: var(--text-muted);
+            margin-bottom: 30px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-top: 20px;
+        }
+        @media (max-width: 768px) {
+            .grid { grid-template-columns: 1fr; }
+        }
+        .card {
+            background-color: var(--card-bg);
+            padding: 25px;
+            border-radius: 8px;
+            border: 1px solid #383c47;
+        }
+        .card h3 {
+            margin-top: 0;
+            color: var(--accent-color);
+        }
+        .modules-list {
+            list-style: none;
+            padding: 0;
+        }
+        .modules-list li {
+            background-color: var(--card-bg);
+            margin-bottom: 15px;
+            padding: 20px;
+            border-radius: 6px;
+            border-left: 4px solid var(--accent-blue);
+        }
+        .modules-list strong {
+            display: block;
+            color: #ffffff;
+            margin-bottom: 5px;
+        }
+        .slide-img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 20px 0;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            border: 1px solid #383c47;
+        }
+        .btn-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: var(--accent-blue);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background-color: #3498db;
+        }
+        blockquote {
+            background: #1a1c23;
+            border-left: 10px solid var(--accent-color);
+            margin: 30px 0;
+            padding: 20px;
+            font-style: italic;
+            border-radius: 0 8px 8px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>COMMUNICATION CODE</h1>
+        <div class="subtitle">Development of Adequate Contextual Reactions (ACR) in LLM Environment</div>
+        <!-- Вставка титульного слайда -->
+        <img src="assets/slide1.png" alt="Communication Code Title" class="slide-img" style="max-width: 700px;">
+    </header>
+
+    <div class="container">
+        
+        <h2>Project Essence & Target</h2>
+        <p>The <strong>"Communication Code"</strong> project is a groundbreaking pedagogical and technological framework designed to help individuals with Autism Spectrum Disorder (ASD) master social interaction. By leveraging Large Language Models (LLMs), the framework shifts social learning from intuitive comprehension (which is often impaired due to neural-level sensory challenges) into the realm of structured, analyzable systems [2].</p>
+
+        <h2>The Paradigm Shift: Bottom-Up Logic</h2>
+        <p>Traditional methods like TEACCH or Social Stories often lead to rigid, template-based behavior with poor real-world skill transfer. Our method utilizes <strong>Social Thinking</strong> to break down complex social situations into structured tasks with defined input data, clear processing rules, and predictable outcomes [2].</p>
+        
+        <!-- Вставка слайда со схемой обучения -->
+        <img src="assets/slide11.png" alt="General Model of Learning" class="slide-img">
+
+        <h2>Course Structure & Modules</h2>
+        <ul class="modules-list">
+            <li>
+                <strong>Module 1: Getting to Know Your AI Interlocutor</strong>
+                <span style="color: var(--text-muted);">Focuses on anxiety reduction and mastering the "Matrix" pattern [2].</span>
+            </li>
+            <li>
+                <strong>Module 2: Basic Social Scripts</strong>
+                <span style="color: var(--text-muted);">Learning hard, predictable social algorithms [2].</span>
+            </li>
+            <li>
+                <strong>Module 3: Initiative and Dialogue</strong>
+                <span style="color: var(--text-muted);">Transitioning into open-ended conversations and behavioral flexibility [2].</span>
+            </li>
+            <li>
+                <strong>Module 4: Dealing with Difficult Situations</strong>
+                <span style="color: var(--text-muted);">Learning to handle unexpected context shifts, conflicts, and refusals [2].</span>
+            </li>
+            <li>
+                <strong>Module 5: Final Integration</strong>
+                <span style="color: var(--text-muted);">Full mastery of the social environment simulation and modeling method [2].</span>
+            </li>
+        </ul>
+
+        <h2>A Systematic Tools Approach</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Prompting & Vectorization</h3>
+                <p>Structuring highly specialized input data parameters specifically optimized for AI processing [2].</p>
+            </div>
+            <div class="card">
+                <h3>Component Analysis</h3>
+                <p>Breaking down highly complex, chaotic real-world scenarios into discrete, manageable analytical elements [2].</p>
+            </div>
+            <div class="card">
+                <h3>Matrix & Euler Circles</h3>
+                <p>Advanced visual representations mapping logical connections and overlapping social contexts [2].</p>
+            </div>
+            <div class="card">
+                <h3>Hidden Markov Models</h3>
+                <p>Mathematical and algorithmic approaches applied to successfully predict subsequent sequences of human actions [2].</p>
+            </div>
+        </div>
+
+        <blockquote>
+            "The high convergence of AI assistants' actions with the behavior of real people ensures a smooth transfer of skills from the virtual environment to real life." [2]
+        </blockquote>
+
+        <div class="btn-container">
+            <h2>Project Materials</h2>
+            <p>Access the full research presentation below:</p>
+            <!-- Ссылка на скачивание файла -->
+            <a href="assets/presentation.pdf?raw=true" class="btn">📥 Download Full Presentation (PDF)</a>
+        </div>
+
+    </div>
+
+</body>
+</html>
 
