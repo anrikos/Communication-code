@@ -16,6 +16,9 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 * **ILAUGH Model Integration:** Translating human intuition into logical, mathematically analyzable blocks.
 * **LLM Simulation Environment:** Using AI's high verbal adaptability to avoid rigid script dependencies and prevent "laboratory environment" limitations.
 * **Seamless Skill Transfer:** High convergence between AI assistant behaviors and real-world interactions ensures smooth adaptation to everyday life.
+  <p align="center">
+  <img src="assets/Maslow.PNG" alt="Код Общения" width="400">
+</p>
 
 ## 🛠️ Course Structure & Modules
 1. **Module 1:** Introduction to AI interlocutor (Anxiety reduction, "Matrix" pattern).
