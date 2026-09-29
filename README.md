@@ -5,7 +5,7 @@
 
 [Читать на русском языке](README.ru.md)
 
-An innovative framework that bridges neurobiology and artificial intelligence to help individuals with Autism Spectrum Disorder (ASD) develop social communication skills. By leveraging Large Language Models (LLMs), the project transforms dynamic social contexts into analytical, computational systems using the **Social Thinking** methodology.
+Framework that bridges neurobiology and artificial intelligence to help individuals with Autism Spectrum Disorder (ASD) develop social communication skills. By leveraging Large Language Models (LLMs), the project transforms dynamic social contexts into analytical, computational systems using the **Social Thinking** methodology.
 
 ## 🧠 The Core Problem
 Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down behavioral patterns. This leads to mechanical responses and a failure to generalize skills when the context shifts. 
