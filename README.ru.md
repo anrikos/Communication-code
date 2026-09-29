@@ -42,3 +42,6 @@
 ---
 *У всего есть свой код... Расшифруйте социальное взаимодействие.*
 
+
+## 📂 Materials
+* 📄 [Download Full "Code of Communication" Presentation (PDF)](assets/presentation.pdf?raw=true)
