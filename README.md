@@ -39,7 +39,4 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 * **Hidden Markov Models (HMM):** Action sequence forecasting.
 
 ---
-<p align="center">
-  <img src="assets/Open_the_door.PNG" alt="Код Общения" width="300">
-</p>
 *Everything has its code... Decode social interaction.*
