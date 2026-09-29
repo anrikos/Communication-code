@@ -40,3 +40,7 @@ Traditional therapies (ABA, TEACCH, Social Stories) often teach rigid, top-down 
 
 ---
 *Everything has its code... Decode social interaction.*
+---
+
+## 📂 Materials
+* 📄 [Download Full "Code of Communication" Presentation (PDF)](assets/presentation.pdf)
